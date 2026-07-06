@@ -13,7 +13,7 @@ This repository contains the complete codebase, configurations, and documentatio
 - **Reporting & Dashboards**: Pre-configured widgets for key indicators (total books, available books, overdue books, pending requests) and analytical charts.
 
 ---
-
+file:///c:/Users/chall/OneDrive/Desktop/teja/prototype/index.html
 ## Repository Structure
 
 ```
